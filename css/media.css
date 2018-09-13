@@ -1,0 +1,100 @@
+/*XS*/
+@media (max-width: 767px) { 
+
+	
+
+	.slider-section h1{
+		font-size: 25px;
+	}
+
+	.slider-section h3{
+		font-size: 14px;
+	}
+
+	.about-us ul li i {
+    	font-size: 18px;
+	}
+
+	.about-us ul .detail {
+    	max-width: 250px;
+	}
+
+	.about-us-img img {
+    	height: 260px;
+	}
+
+	.facts {
+
+    	margin-bottom: 40px;
+
+	}
+
+	.portfolio-links ul li {
+
+    	margin: 10px 15px;
+
+	}
+
+	.call-to-action {
+    	text-align: center;
+	}
+
+	.action-btn {
+    	
+    	text-align: center;
+	}
+
+	.contact ul li i {
+
+    	font-size: 22px;
+
+	}
+
+	.message {
+
+    	padding: 0px 20px;
+
+	}
+
+/*SM*/
+@media (min-width: 768px) and (max-width: 991px) { 
+
+	.nav > li > a {
+	    padding: 20px 8px;
+	}
+
+	.slider-section h1{
+		font-size: 30px;
+	}
+
+	.slider-section h3{
+		font-size: 18px;
+	}
+
+	.call-to-action p {
+    	max-width: 350px;
+	}
+
+	.action-btn {
+
+    	margin: 55px 91px;
+
+	}
+
+	.contact {
+
+    margin-left: 75px;
+
+}
+
+ }
+
+ /*MD*/
+@media (min-width: 992px) and (max-width: 1199px) { 
+
+ }
+
+ /*LG*/
+@media (min-width: 1200) { 
+
+ }
